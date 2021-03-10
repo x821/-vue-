@@ -1,0 +1,5 @@
+export const PostCommentUrl = "/api/postcomment/" 
+export const PostCart = "/api/postcart/" 
+export const PostCollect = "/api/postcollect/" 
+export const DelCollect = "/api/delcollect/"
+export const Postuser="/api/postuser"
